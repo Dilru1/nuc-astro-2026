@@ -9,3 +9,5 @@ This repository contains the source material for the course, including:
 
 ## Accessing the Content
 [View the Course Textbook](https://dilru1.github.io/nuc-astro-2026/)
+
+## NEW
