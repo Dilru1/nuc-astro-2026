@@ -3,13 +3,16 @@ name: deploy-book
 on:
   push:
     branches:
-      - main  # Or master, depending on your branch name
+      - main
     paths:
-      - 'nuc-astro-cmb/**'  # Only run when files in this folder change
+      - 'nuc-astro-cmb/**'
 
 jobs:
   deploy-book:
     runs-on: ubuntu-latest
+    # This prevents the Node.js 20 deprecation warning
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
     permissions:
       pages: write
       id-token: write
@@ -27,13 +30,13 @@ jobs:
 
       - name: Build the book
         run: |
-          # Build the book specifically from the subdirectory
-          jupyter-book build nuc-astro-cmb/
+          # Move into the folder and build from there
+          cd nuc-astro-cmb && jupyter-book build .
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          # Upload the built HTML files from the subdirectory
+          # Point to the build folder created inside the subdirectory
           path: nuc-astro-cmb/_build/html
 
       - name: Deploy to GitHub Pages
