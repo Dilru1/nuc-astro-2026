@@ -8,4 +8,4 @@ This repository contains the source material for the course, including:
 - **Interactive Tools:** Google Colab links for real-time parameter tuning.
 
 ## Accessing the Content
-[View the Course Textbook](https://yourusername.github.io/nuc-astro-2026)
+[View the Course Textbook](https://dilru1.github.io/nuc-astro-2026/)
