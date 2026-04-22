@@ -1,44 +1,22 @@
-name: deploy-book
+name: Deploy Book
 
 on:
   push:
-    branches:
-      - main
-    paths:
-      - 'nuc-astro-cmb/**'
+    branches: [main]
 
 jobs:
-  deploy-book:
+  build-and-deploy:
     runs-on: ubuntu-latest
-    # This prevents the Node.js 20 deprecation warning
-    env:
-      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
-    permissions:
-      pages: write
-      id-token: write
     steps:
       - uses: actions/checkout@v4
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - uses: actions/setup-python@v5
         with:
           python-version: '3.10'
-
-      - name: Install dependencies
-        run: |
-          pip install jupyter-book
-
-      - name: Build the book
-        run: |
-          # Move into the folder and build from there
-          cd nuc-astro-cmb && jupyter-book build .
-
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+      - run: pip install jupyter-book
+      - name: Build
+        run: jupyter-book build nuc-astro-cmb
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          # Point to the build folder created inside the subdirectory
-          path: nuc-astro-cmb/_build/html
-
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./nuc-astro-cmb/_build/html
