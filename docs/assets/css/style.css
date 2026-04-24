@@ -1,0 +1,4 @@
+body {
+    /* This ensures Sinhala characters render with a modern, readable font */
+    font-family: 'Noto Sans Sinhala', sans-serif, Arial;
+}
