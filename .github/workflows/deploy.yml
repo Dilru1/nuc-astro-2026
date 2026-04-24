@@ -21,13 +21,13 @@ jobs:
       - name: Install dependencies
         run: |
           pip install jupyter-book
-          if [ -f nuc-astro-cmb/requirements.txt ]; then pip install -r nuc-astro-cmb/requirements.txt; fi
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
       - name: Build the book
-        run: jupyter-book build nuc-astro-cmb
+        run: jupyter-book build .
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./nuc-astro-cmb/_build/html
+          publish_dir: ./_build/html
