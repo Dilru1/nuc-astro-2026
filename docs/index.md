@@ -1,16 +1,16 @@
 ---
 layout: default
-title: Nuclear Astrophysics 2026
+title: Nuclear Astrophysics (NS3035)
 ---
 
-# Welcome to Nuc-Astro 2026
+# Welcome to Nuclear Astrophysics 
 
-This is the official course website for Nuclear Astrophysics. Here you will find lecture notes, assignments, and reading materials.
+Course website for Nuclear Astrophysics NS 3035 (Colombo, 2026). Here you will find lecture notes, assignments, and reading materials.
 
 ## Course Overview
 - **Instructor:** Dehiwalge Don Dilruwan
-- **Term:** Spring 2026
-- **Objective:** To explore the synthesis of elements in the universe.
+- **Term:** April 2026
+- **Objective:** To understand the origin of el<ements in the universe.
 
 ## Table of Contents
 * [Chapter 1: Stellar Nucleosynthesis](chapter1.md)
