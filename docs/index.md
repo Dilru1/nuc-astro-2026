@@ -3,6 +3,8 @@ layout: default
 title: Nuclear Astrophysics 2026
 ---
 
+![Course Cover Photo](assets/cover.jpg)
+
 # Welcome to Nuc-Astro 2026
 
 This is the official course website for Nuclear Astrophysics. Here you will find lecture notes, assignments, and reading materials.
