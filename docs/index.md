@@ -4,7 +4,6 @@ title: Nuclear Astrophysics (NS3035)
 ---
 
 # Welcome to Nuclear Astrophysics 
-[සිංහල අනුවාදය සඳහා මෙතැන ක්ලික් කරන්න](si/index.html)
 
 Course website for Nuclear Astrophysics NS 3035 (Colombo, 2026). Here you will find lecture notes, assignments, and reading materials.
 
