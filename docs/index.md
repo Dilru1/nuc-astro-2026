@@ -2,7 +2,6 @@
 layout: default
 title: Nuclear Astrophysics (NS3035)
 ---
-
 # Welcome to Nuclear Astrophysics 
 
 Course website for Nuclear Astrophysics NS 3035 (Colombo, 2026). Here you will find lecture notes, assignments, and reading materials.
