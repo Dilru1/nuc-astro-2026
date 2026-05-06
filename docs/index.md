@@ -38,7 +38,7 @@ Please select one paper from the list for your bibliographic project. These pape
 
 ### Paper Selection Form
 
-<form action=https://formspree.io/f/mdabzrzk method="POST" style="background-color: #f9f9f9; padding: 20px; border-radius: 8px; border: 1px solid #ddd;">
+<form action="https://formspree.io/f/mdabzrzk" method="POST" style="background-color: #f9f9f9; padding: 20px; border-radius: 8px; border: 1px solid #ddd;">
   
   <div style="margin-bottom: 15px;">
     <label style="display: block; font-weight: bold;">Group Name:</label>
@@ -112,13 +112,6 @@ Please select one paper from the list for your bibliographic project. These pape
 
   <button type="submit" style="background-color: #007bff; color: white; border: none; padding: 10px 20px; border-radius: 4px; cursor: pointer; font-weight: bold;">Submit Selection</button>
 </form>
-
-
-
-
-
-
-
 
 ## Table of Contents
 * [Chapter 1: Physics of Stars](chapter1.md)
