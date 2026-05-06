@@ -11,12 +11,8 @@ Here you will find lecture notes, assignments, and reading materials.
 - **Teacher:** Dehiwalge Don Dilruwan
 - **Class:** April 2026
 
+
 ### Bibliographic Project: Research Literature
-Please select one paper from the list for your bibliographic project. These papers represent the pillars of nuclear astrophysics, from foundational theory to modern machine learning and computational breakthroughs
-#### Foundations of Nucleosynthesis
- 1. [The B2FH Paper](assets/papers/E_Theory_of_everything_[B2.pdf): Burbidge, E. M., et al. (1957). Synthesis of the Elements in Stars 
- 
- ### Bibliographic Project: Research Literature
 
 Please select one paper from the list for your bibliographic project. These papers represent the pillars of nuclear astrophysics, from foundational theory to modern machine learning and computational breakthroughs.
 
@@ -37,6 +33,25 @@ Please select one paper from the list for your bibliographic project. These pape
 10. [Neutron Star Mergers and Machine Learning](assets/papers/D_Neutron_Stars_[ML].pdf): Dax, M., et al. (2025). Real-time inference for binary neutron star mergers using machine learning
 
 
+### Submit Your Choice Here
+<form action="https://formspree.io/f/mdabzrzk" method="POST">
+  <label>
+    Group Name:
+    <input type="text" name="group_name" required>
+  </label>
+  <br><br>
+  <label>
+    Paper Selection:
+    <select name="paper_choice">
+      <option value="B2FH">1. The B2FH Paper</option>
+      <option value="BBN">2. Primordial Nucleosynthesis</option>
+      <option value="SNO">3. Solar Neutrino Problem</option>
+      <!-- Add all 10 options here -->
+    </select>
+  </label>
+  <br><br>
+  <button type="submit">Submit Selection</button>
+</form>
 
 ## Table of Contents
 * [Chapter 1: Physics of Stars](chapter1.md)
