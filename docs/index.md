@@ -10,6 +10,8 @@ Here you will find lecture notes, assignments, and reading materials.
 ## Course Overview
 - **Teacher:** Dehiwalge Don Dilruwan
 - **Class:** April 2026
+- **Class:** April 2026 Names
+
 
 ## Table of Contents
 * [Chapter 1: Physics of Stars](chapter1.md)
