@@ -42,7 +42,7 @@ Please select one paper from the list for your bibliographic project. These pape
   
   <div style="margin-bottom: 15px;">
     <label style="display: block; font-weight: bold;">Group Name:</label>
-    <input type="text" name="group_name" style="width: 100%; padding: 8px;" placeholder="e.g., Group Alpha" required>
+    <input type="text" name="group_name" style="width: 100%; padding: 8px;" placeholder="e.g., Big Bang/B2FH/Ghost Particles" required>
   </div>
 
   <div style="margin-bottom: 15px;">
