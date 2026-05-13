@@ -1,4 +1,4 @@
-# Chapter 1: Physics of Stars
+# Chapter 1: Physics of Stars I
 In this class we develop the theoretical framework for modelling stars. We begin with a simple spherical stellar model and derive key concepts such as the virial theorem, hydrostatic equilibrium and the free-fall time in the non-relativistic regime.
 
 We then extend the discussion to the physics of star formation, including the conditions required for protostellar collapse and the onset of stable hydrogen burning “stardom.” This forms the first point of contact between stellar evolution and nuclear physics, where nuclear processes begin to govern the long-term structure and evolution of stars.
