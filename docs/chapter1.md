@@ -17,6 +17,9 @@ Introduction to the course and logistics
 Lecture 1 (Physics of Stars)
 [Lecture 1](assets/pdfs/lecture1.pdf)
 
+Lecture 1 (Physics of Stars)
+[Lecture 1](assets/pdfs/class1handouts.pdf)
+
 
 ## Interactive Lab
 You can try the Jupyter Labs for Class 1 here

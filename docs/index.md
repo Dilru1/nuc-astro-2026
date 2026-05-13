@@ -114,7 +114,8 @@ Please select one paper from the list for your bibliographic project. These pape
 </form>
 
 ## Table of Contents
-* [Chapter 1: Physics of Stars](chapter1.md)
+* [Chapter 1: Physics of Stars I ](chapter1.md)
+* [Chapter 2: Physics of Stars II](chapter2.md)
 
 
 ---
