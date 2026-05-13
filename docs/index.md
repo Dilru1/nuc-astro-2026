@@ -80,6 +80,13 @@ Please select one paper from the list for your bibliographic project. These pape
 * [Chapter 1: Physics of Stars I ](chapter1.md)
 * [Chapter 2: Physics of Stars II](chapter2.md)
 
+* [Chapter 3: Thermonuclear Reactions in Stars](404_work_in_progress.md)
+* [Chapter 4: Hydrostatic Burning I — H → He](404_work_in_progress.md)
+* [Chapter 5: Hydrostatic Burning II — Advanced Stages](404_work_in_progress.md)
+* [Chapter 6: Supernova Explosion Mechanisms](404_work_in_progress.md)
+* [Chapter 7: Exotic Astrophysical Events](404_work_in_progress.md)
+* [Chapter 8: Nucleosynthesis Beyond the Fe Peak](404_work_in_progress.md)
+* [Chapter 9: The Early Universe & Big Bang Nucleosynthesis](404_work_in_progress.md)
 
 ---
 *Last updated: April 2026*
