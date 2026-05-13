@@ -93,7 +93,7 @@ Please select one paper from the list for your bibliographic project. These pape
 * [Assignment 1: Physics of Stars](assets/pdfs/assignment.pdf)
 
 ## Final Exam Styles  
-* [1. The Petrova Problem](assets/pdfs/petrova_problem.pdf)
+* [The Petrova Problem](assets/exams/exam.md)
 
 ---
 *Last updated: April 2026*
