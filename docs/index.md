@@ -11,6 +11,15 @@ Here you will find lecture notes, assignments, and reading materials.
 - **Teacher:** Dehiwalge Don Dilruwan
 - **Class:** April 2026
 
+<table>
+  <tr>
+    <td><img src="assets/pdfs/gmc1.jpg" alt="GMC" width="500"/></td>
+    <td><img src="assets/pdfs/veil.jpg" alt="Veil Nebula" width="500"/></td>
+  </tr>
+</table>
+
+
+
 
 ## Bibliographic Project 2026
 ### Research Literature 2026
@@ -98,6 +107,9 @@ Please select one paper from the list for your bibliographic project. These pape
 
 ## Final Exam Styles  
 * [The Petrova Problem](assets/exams/exam.md)
+
+
+
 
 ---
 *Last updated: April 2026*
