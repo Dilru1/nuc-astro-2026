@@ -11,10 +11,10 @@ When viewed in infrared light (ex James Webb Space Telescope) the cosmic veil is
 
 
 ## Reading Materials
-You can download the PDF notes for Class 2 here
-[Class 2 Notes](assets/pdfs/class3/note3.pdf)
+You can download the PDF notes for Class 3 here
+[Class 3 Notes](assets/pdfs/class3/note3.pdf)
 
 ## Slides
 Lecture 3 (Star Formation)
-[Lecture 2](assets/pdfs/class3/presentation.pdf)
+[Lecture 3](assets/pdfs/class3/presentation.pdf)
 

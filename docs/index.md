@@ -77,9 +77,13 @@ Please select one paper from the list for your bibliographic project. These pape
 
 
 ## Table of Contents
-* [Chapter 1: Physics of Stars I ](chapter1.md)
-* [Chapter 2: Physics of Stars II](chapter2.md)
+* [Week 1: Physics of Stars I - Logistics and Stellar Models](chapter1.md)
+* [Week 2: Physics of Stars II - Stellar Models](chapter2.md)
+* [Week 3: Physics of Stars III - Star Formations](chapter3.md)
 
+
+
+## Next weeks 
 * [Chapter 3: Thermonuclear Reactions in Stars](404_work_in_progress.md)
 * [Chapter 4: Hydrostatic Burning I — H → He](404_work_in_progress.md)
 * [Chapter 5: Hydrostatic Burning II — Advanced Stages](404_work_in_progress.md)
