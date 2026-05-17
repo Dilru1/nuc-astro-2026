@@ -3,9 +3,7 @@ layout: default
 title: Nuclear Astrophysics (NS3035)
 ---
 # Welcome to Nuclear Astrophysics 
-
-Course website for Nuclear Astrophysics NS 3035 (Colombo Uni, 2026). 
-Here you will find lecture notes, assignments, and reading materials.
+Course website for Nuclear Astrophysics NS 3035 (Colombo Uni, 2026)
 
 ## Course Overview
 - **Teacher:** Dehiwalge Don Dilruwan
@@ -89,7 +87,7 @@ Please select one paper from the list for your bibliographic project. These pape
 * [Week 1: Physics of Stars I - Logistics and Stellar Models](chapter1.md)
 * [Week 2: Physics of Stars II - Stellar Models](chapter2.md)
 * [Week 3: Physics of Stars III - Star Formations](chapter3.md)
-
+* [Week 4: Thermonuclear Reactions in Stars](chapter4.md)
 
 
 ## Next weeks 
