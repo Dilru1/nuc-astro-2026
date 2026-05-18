@@ -18,7 +18,7 @@
         <section data-background-gradient="linear-gradient(to bottom, #0f2027, #203a43, #2c5364)">
           <h1 style="font-size: 2.5em; color: #ff79c6;">The Art of Stellar Presentations</h1>
           <h3>Fusing the Perfect Presentation</h3>
-          <p><small>Make a coold ppt and win Everyone's Heart</small></p>
+          <p><small>Make a cool ppt and win everyone</small></p>
         </section>
 
         <!-- Slide 2: The Question -->
@@ -36,7 +36,7 @@
         <section>
           <h2>A Star</h2>
           <img src="MC.png" alt="GMC Collapse">
-          <p><small>Your presentation needs enough substance to capture your audience's gravity, or they will drift away.</small></p>
+          <p><small>Your presentation needs enough substance to capture your audience's attention, or they will drift away just like a brown dwarf!</small></p>
         </section>
 
         <section>
@@ -50,35 +50,111 @@
           <p><small>Every second, the Sun converts 600 million tons of Hydrogen into Helium. The lost mass becomes pure energy via $E=mc^2$.</small></p>
         </section>
 
-        <!-- Slide 4: Onion Skin (Nested Slides) -->
         <section>
-          <section>
-            <h2>Advanced Burning Stages</h2>
-            <p>Massive stars don't stop at Helium. As they age, gravity compresses the core, raising temperatures to ignite heavier shells.</p>
-            <p><small style="color: #ffb86c;">↓ Press the Down Arrow to see the layers ↓</small></p>
-          </section>
+          <h2 style="color: #ff79c6;">Stellar Core Dynamics</h2>
+          <p style="margin-bottom: 10px;"><small> Hover or tap nested shells to trace advanced nucleosynthesis stages in a $25M_{\odot}$ evolved star.</small></p>
           
-          <section>
-            <h2>The Stellar "Onion Skin"</h2>
-            <p>Concentric shells fuse progressively heavier elements:</p>
-            <ul style="font-size: 0.8em; columns: 2;">
-              <li>Hydrogen $\rightarrow$ Helium</li>
-              <li>Helium $\rightarrow$ Carbon</li>
-              <li>Carbon $\rightarrow$ Neon</li>
-              <li>Neon $\rightarrow$ Oxygen</li>
-              <li>Oxygen $\rightarrow$ Silicon</li>
-              <li style="color: #ff5555; list-style-type: '⚠ ';">Silicon $\rightarrow$ Iron</li>
-            </ul>
-          </section>
+          <div style="display: flex; align-items: center; justify-content: center; gap: 30px; margin-top: 20px; flex-wrap: wrap;">
+            
+            <!-- CSS Interactive Onion Model (Concentric Spheres) -->
+            <div style="position: relative; width: 380px; height: 380px; display: flex; align-items: center; justify-content: center; filter: drop-shadow(0 0 20px rgba(0,0,0,0.7));">
+              
+              <!-- Layer 1: Hydrogen Shell -->
+              <div class="onion-shell" style="width: 100%; height: 100%; background: radial-gradient(circle, #3b82f6 30%, #1d4ed8 100%); z-index: 1;" 
+                   onmouseover="updateShellInfo('Hydrogen-Burning Shell', 'CNO Cycle (Mainly)', '$$4\\text{p} \\xrightarrow{\\text{CNO}} \\text{}^{4}\\text{He} + 2\\text{e}^+ + 2\\nu_e + 2\\gamma$$', '~1.5 \\times 10^7 \\text{ K}', 'Hydrogen depletion leaves an inert Helium ash core, compressing the interior to initiate the next energetic shell phase.')">
+                
+                <!-- Layer 2: Helium Shell -->
+                <div class="onion-shell" style="width: 86%; height: 86%; background: radial-gradient(circle, #10b981 30%, #065f46 100%); z-index: 2;" 
+                     onmouseover="event.stopPropagation(); updateShellInfo('Helium-Burning Shell', 'Triple-Alpha Process & Alpha Capture', '$$3\\alpha \\rightarrow \\text{}^{12}\\text{C} + \\gamma \\\\ \\text{}^{12}\\text{C}(\\alpha,\\gamma)\\text{}^{16}\\text{O}$$', '~1.5 \\times 10^8 \\text{ K}', 'Ignites via the triple-alpha flash. Forges the initial building blocks of organic matter and heavier planetary bodies.')">
+                  
+                  <!-- Layer 3: Carbon Shell -->
+                  <div class="onion-shell" style="width: 72%; height: 72%; background: radial-gradient(circle, #eab308 30%, #854d0e 100%); z-index: 3;" 
+                       onmouseover="event.stopPropagation(); updateShellInfo('Carbon-Burning Shell', 'Carbon-Carbon Fusion', '$$\\text{}^{12}\\text{C} + \\text{}^{12}\\text{C} \\rightarrow \\text{}^{20}\\text{Ne} + \\alpha \\\\ \\text{}^{12}\\text{C} + \\text{}^{12}\\text{C} \\rightarrow \\text{}^{23}\\text{Na} + \\text{p}$$', '~8 \\times 10^8 \\text{ K}', 'Requires intense kinetic velocity to overcome high Coulomb barriers. Produces heavy amounts of Neon and Sodium ash.')">
+                    
+                    <!-- Layer 4: Neon Shell -->
+                    <div class="onion-shell" style="width: 58%; height: 58%; background: radial-gradient(circle, #f97316 30%, #9a3412 100%); z-index: 4;" 
+                         onmouseover="event.stopPropagation(); updateShellInfo('Neon-Burning Shell', 'Photodisintegration Rearrangement', '$$\\text{}^{20}\\text{Ne}(\\gamma,\\alpha)\\text{}^{16}\\text{O} \\\\ \\text{}^{20}\\text{Ne}(\\alpha,\\gamma)\\text{}^{24}\\text{Mg}$$', '~1.5 \\times 10^9 \\text{ K}', 'High energy gamma-ray photons physically smash Neon nuclei apart, releasing alpha particles that immediately fuse with remaining Neon to construct Magnesium.')">
+                      
+                      <!-- Layer 5: Oxygen Shell -->
+                      <div class="onion-shell" style="width: 44%; height: 44%; background: radial-gradient(circle, #ef4444 30%, #991b1b 100%); z-index: 5;" 
+                           onmouseover="event.stopPropagation(); updateShellInfo('Oxygen-Burning Shell', 'Oxygen-Oxygen Fusion', '$$\\text{}^{16}\\text{O} + \\text{}^{16}\\text{O} \\rightarrow \\text{}^{28}\\text{Si} + \\alpha \\\\ \\text{}^{16}\\text{O} + \\text{}^{16}\\text{O} \\rightarrow \\text{}^{31}\\text{P} + \\text{p}$$', '~2.0 \\times 10^9 \\text{ K}', 'Principal products include Silicon, Sulfur, and Phosphorus. The star is running out of highly efficient fuel lines.')">
+                        
+                        <!-- Layer 6: Silicon Shell -->
+                        <div class="onion-shell" style="width: 30%; height: 30%; background: radial-gradient(circle, #a855f7 30%, #6b21a8 100%); z-index: 6;" 
+                             onmouseover="event.stopPropagation(); updateShellInfo('Silicon-Burning Shell', 'The Alpha-Network Chain', '$$\\text{}^{28}\\text{Si} + \\alpha \\rightleftharpoons \\text{}^{32}\\text{S} \\dots \\rightarrow \\text{}^{56}\\text{Ni}$$', '~3.5 \\times 10^9 \\text{ K}', 'An intense dynamic equilibrium of photodisintegration and rapid alpha-particle addition that marches directly up to the Iron peak.')">
+                          
+                          <!-- Layer 7: Iron-Peak Core -->
+                          <div class="onion-shell" style="width: 14%; height: 14%; background: #1e293b; border: 2px dashed #ff5555; z-index: 7;" 
+                               onmouseover="event.stopPropagation(); updateShellInfo('Iron-Peak Core (Dead End)', 'Nuclear Statistical Equilibrium', '$$\\text{No Net Energy Generation} \\\\ Q < 0 \\text{ for heavier fusion}$$', '> 4.0 \\times 10^9 \\text{ K}', 'Iron has the highest nuclear binding energy per nucleon. Fusion becomes strictly endothermic (robs energy). Star collapse is imminent within seconds.')">
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+        
+            <!-- Dynamic Description Data Box (Structured Layout to prevent height popping) -->
+            <div id="advanced-shell-box" style="width: 460px; min-height: 480px; background: #1e1f29; border: 2px solid #44475a; border-radius: 12px; padding: 22px; text-align: left; box-sizing: border-box;">
+              <div id="shell-default-msg" style="display: flex; height: 100%; align-items: center; justify-content: center; text-align: center; color: #6272a4;">
+                <p> Hover over any stellar concentric ring layer to extract real-time astrophysical metrics and nucleosynthesis reaction channels.</p>
+              </div>
+              <div id="shell-dynamic-data" style="display: none;">
+                <h3 id="info-title" style="color: #50fa7b; margin-top: 0; margin-bottom: 2px; font-size: 1.3em;"></h3>
+                <p style="margin: 0 0 12px 0; font-size: 0.6em; color: #ffb86c;"><span style="font-weight: bold;">Mechanism:</span> <span id="info-mech"></span></p>
+                
+                <div style="background: #282a36; padding: 6px; border-radius: 8px; margin-bottom: 12px; min-height: 60px; display: flex; align-items: center; justify-content: center;">
+                  <div id="info-math" style="font-size: 0.6em; width: 100%; text-align: center;"></div>
+                </div>
+                
+                <p style="margin: 0 0 4px 0; font-size: 0.6em;"><strong style="color: #ff79c6;">T_threshold:</strong> <span id="info-temp"></span></p>
+                <p id="info-desc" style="margin: 8px 0 0 0; font-size: 0.6em; line-height: 1.4; color: #f8f8f2;"></p>
+              </div>
+            </div>
+        
+          </div>
+        
+          <!-- Styling and Dynamic Engine Scripts -->
+          <style>
+            .onion-shell {
+              border-radius: 50%;
+              display: flex;
+              align-items: center;
+              justify-content: center;
+              transition: transform 0.25s cubic-bezier(0.4, 0, 0.2, 1), box-shadow 0.25s ease;
+              cursor: crosshair;
+            }
+            .onion-shell:hover {
+              transform: scale(1.025);
+              box-shadow: 0 0 25px rgba(255, 255, 255, 0.55);
+            }
+          </style>
+        
+          <script>
+            function updateShellInfo(title, mechanism, mathString, temperature, description) {
+              document.getElementById('shell-default-msg').style.display = 'none';
+              document.getElementById('shell-dynamic-data').style.display = 'block';
+              
+              document.getElementById('info-title').innerText = title;
+              document.getElementById('info-mech').innerText = mechanism;
+              document.getElementById('info-temp').innerText = temperature;
+              document.getElementById('info-desc').innerText = description;
+              
+              // Inject MathJax target code cleanly
+              const mathContainer = document.getElementById('info-math');
+              mathContainer.innerHTML = mathString;
+              
+              // Forces Reveal's MathJax engine to look at our newly swapped element and re-render the LaTeX
+              if (typeof MathJax !== 'undefined') {
+                MathJax.typesetPromise([mathContainer]).catch(function (err) {
+                  console.log("MathJax update failed: " + err.message);
+                });
+              }
+            }
+          </script>
         </section>
 
-        <section>
-          <h2>Stellar Core Dynamics</h2>
-          <iframe src="OnionStarPresentation.jsx" width="100%" height="500px" style="border:none;"></iframe>
-        </section>
-
-
-        <!-- Slide 5: The Iron Dead End -->
         <section>
           <h2>The Iron Dead End</h2>
           <p>Iron ($\text{}^{56}\text{Fe}$) has the highest binding energy per nucleon of any element in this chain.</p>
@@ -89,7 +165,7 @@
           <p class="fragment">Without energy production, the core collapses in a fraction of a second, triggering a <strong>Type II Supernova</strong>.</p>
         </section>
 
-        <!-- Slide 6: Beyond Iron -->
+
         <section>
           <h2>Forging Elements Beyond Iron</h2>
           <p>How do we get Gold, Platinum, and Uranium? <strong>Neutron Capture Processes</strong>.</p>
@@ -100,7 +176,7 @@
         </section>
 
 
-<!-- Slide 7: Conclusion -->
+
 <section data-background-color="#282a36">
   <h2>Summary</h2>
   <p>Every heavy atom in your body was once cooked inside a star or forged in a violent cosmic collision.</p>
@@ -110,7 +186,6 @@
   </div>
 </section>
 
-<!-- Slide 8: Q&A -->
 <section data-background-gradient="linear-gradient(to top, #0f2027, #203a43, #2c5364)">
   <h2 style="color: #50fa7b;">Thank You!</h2>
   <p>Questions & Discussion</p>
@@ -120,10 +195,8 @@
 </div>
 </div>
 
-<!-- Reveal.js Core Script -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.5.0/reveal.min.js"></script>
 
-<!-- Reveal.js Math Plugin for LaTeX Support -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.5.0/reveal.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.5.0/plugin/math/math.min.js"></script>
 
 <script>
@@ -131,11 +204,10 @@ Reveal.initialize({
   hash: true,
   plugins: [ RevealMath.MathJax3 ],
   
-  // Set the normal size of your presentation canvas
-  width: 960,
+  
+  width: 1060,
   height: 800,
 
-  // Factor constraints for scaling
   margin: 0.1,          
   minScale: 0.2,        
   maxScale: 2.0       
