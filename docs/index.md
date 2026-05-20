@@ -112,8 +112,11 @@ Please select one paper from the list for your bibliographic project. These pape
     <td style="border:1px solid #ccc; padding:10px;"></td>
     <td style="border:1px solid #ccc; padding:10px;"></td>
   </tr>
-
 </table>
+
+### Weekly Marks
+* [Marks for Week 1](https://docs.google.com/document/d/1jAIfJ_6BnmciszZ1_fmSouxTR-mMROzKty-UDH41zuU/edit?usp=sharing)
+
 
 
 ## Table of Contents
