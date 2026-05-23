@@ -18,7 +18,6 @@ Course website for Nuclear Astrophysics NS 3035 (Colombo Uni, 2026)
 
 
 
-
 ## Bibliographic Project 2026
 ### Research Literature 2026
 
@@ -117,9 +116,18 @@ Please select one paper from the list for your bibliographic project. These pape
 ### Weekly Marks
 * [Marks for Week 1](https://docs.google.com/document/d/1jAIfJ_6BnmciszZ1_fmSouxTR-mMROzKty-UDH41zuU/edit?usp=sharing)
 
+### Help for Presentation 
+#### Sample Presentation Style JS
+[React Js PPT style](assets/class4/index.html)
+
+#### Sample Presentation Beamer
+[React Js PPT style](assets/class4/index.html)
+
 
 
 ## Table of Contents
+
+* [The Big Picture](assets/extra/nuclear-astrophysics.pdf)
 * [Week 1: Physics of Stars I - Logistics and Stellar Models](chapter1.md)
 * [Week 2: Physics of Stars II - Stellar Models](chapter2.md)
 * [Week 3: Physics of Stars III - Star Formations](chapter3.md)
