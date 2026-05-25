@@ -116,13 +116,15 @@ Please select one paper from the list for your bibliographic project. These pape
 ### Weekly Marks
 * [Marks for Week 1](https://docs.google.com/document/d/1jAIfJ_6BnmciszZ1_fmSouxTR-mMROzKty-UDH41zuU/edit?usp=sharing)
 
-### Help for Presentation 
-#### Sample Presentation Style JS
+
+### Sample Presentation Style
+#### React JS based web presentations <span style="background:#ff4d4f;color:white;padding:2px 8px;border-radius:12px;font-size:12px;">NEW</span>
+
 [React Js PPT style](assets/class4/index.html)
 
-#### Sample Presentation Beamer
-[React Js PPT style](assets/class4/index.html)
+#### LaTeX & Beamer presentations <span style="background:#ff4d4f;color:white;padding:2px 8px;border-radius:12px;font-size:12px;">NEW</span>
 
+[LaTeX & Beamer](assets/class4/latex.md) 
 
 
 ## Table of Contents
