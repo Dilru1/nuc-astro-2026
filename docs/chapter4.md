@@ -18,16 +18,17 @@ To answer this, we discussed the evolution from the interstellar medium (ISM) to
 
 From this week onward, we will temporarily pause our large scale astronomy discussions and move toward the more familiar territory of nuclear science. I understand that the first few classes may have felt somewhat overwhelming, especially because astrophysics often requires connecting ideas across multiple branches of physics simultaneously. However, I believe the coming material will gradually begin to feel more natural. That said, some parts of the next few weeks may still feel like Greek at first. If that happens I invite you to reflect again on the quote at the beginning of this chapter. Real learning rarely feels comfortable in the beginning. Derivations can appear messy, equations may seem intimidating, and physical arguments may initially feel abstract. But that discomfort is often a sign that genuine understanding is beginning to develop. So, as we move deeper into nuclear astrophysics, hang on tight and prepare for rough seas ahead. We are leaving the calm harbor and sailing into open waters.
 
-## Sample Presentation Style
-### React JS based web presentations
+### Sample Presentation Style
+#### React JS based web presentations <span style="background:#ff4d4f;color:white;padding:2px 8px;border-radius:12px;font-size:12px;">NEW</span>
+
 [React Js PPT style](assets/class4/index.html)
 
-### LaTeX & Beamer presentations
-[LaTeX & Beamer](assets/class4/latex.md) <span style="background:#ff4d4f;color:white;padding:2px 8px;border-radius:12px;font-size:12px;">NEW</span>
+#### LaTeX & Beamer presentations <span style="background:#ff4d4f;color:white;padding:2px 8px;border-radius:12px;font-size:12px;">NEW</span>
+
+[LaTeX & Beamer](assets/class4/latex.md) 
 
 
 ## Supplementary Resources
-
 ### Nuclear Physics Primer for Nuclear Astrophysics <span style="background:#ff4d4f;color:white;padding:2px 8px;border-radius:12px;font-size:12px;">NEW</span>
 [Nuclear Physics Notes](assets/class4/nuc_phy_p1.pdf)
 
