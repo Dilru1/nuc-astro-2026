@@ -20,6 +20,10 @@ From this week onward, we will temporarily pause our large scale astronomy discu
 
 ## Sample Presentation Style
 [React Js PPT style](assets/class4/index.html)
+[LaTeX & Beamer](assets/class4/latex.md) <span style="background:#ff4d4f;color:white;padding:2px 8px;border-radius:12px;font-size:12px;">NEW</span>
+
+
+
 
 ## Supplementary Resources
 
