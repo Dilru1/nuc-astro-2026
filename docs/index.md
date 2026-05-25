@@ -128,12 +128,11 @@ Please select one paper from the list for your bibliographic project. These pape
 
 
 ## Table of Contents
-
-* [The Big Picture](assets/extra/nuclear-astrophysics.pdf) <span style="background:#ff4d4f;color:white;padding:2px 8px;border-radius:12px;font-size:12px;">NEW</span>
 * [Week 1: Physics of Stars I - Logistics and Stellar Models](chapter1.md)
 * [Week 2: Physics of Stars II - Stellar Models](chapter2.md)
 * [Week 3: Physics of Stars III - Star Formations](chapter3.md)
-* [Week 4: Thermonuclear Reactions in Stars](chapter4.md) <span style="background:#ff4d4f;color:white;padding:2px 8px;border-radius:12px;font-size:12px;">NEW</span>
+* [Week 4: The Big Picture](assets/extra/nuclear-astrophysics.pdf) <span style="background:#ff4d4f;color:white;padding:2px 8px;border-radius:12px;font-size:12px;">NEW</span>
+* [Week 5: Thermonuclear Reactions in Stars](chapter4.md) <span style="background:#ff4d4f;color:white;padding:2px 8px;border-radius:12px;font-size:12px;">NEW</span>
 
 
 ## Next weeks 
