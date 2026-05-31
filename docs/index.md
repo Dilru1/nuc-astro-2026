@@ -42,87 +42,80 @@ Please select one paper from the list for your bibliographic project. These pape
 10. [Neutron Star Mergers and Machine Learning](assets/papers/D_Neutron_Stars_[ML].pdf): Dax, M., et al. (2025). Real-time inference for binary neutron star mergers using machine learning
 
 ### Group Performance & Weekly Leaderboard
+
 <table style="width:100%; border-collapse: collapse; font-family: Arial, sans-serif; text-align: center;">
-  
-  <!-- Header Row -->
-  <tr style="background-color:#007bff; color:white;">
-    <th style="border:1px solid #ccc; padding:10px; text-align: left;">Group Name</th>
-    <th style="border:1px solid #ccc; padding:10px; text-align: left;">Assigned Paper</th>
-    <th style="border:1px solid #ccc; padding:10px; width: 10%;">Week 1</th>
-    <th style="border:1px solid #ccc; padding:10px; width: 10%;">Week 2</th>
-    <th style="border:1px solid #ccc; padding:10px; width: 10%;">Week 3</th>
-    <th style="border:1px solid #ccc; padding:10px; width: 10%;">Week 4</th>
-    <th style="border:1px solid #ccc; padding:10px; width: 10%;">Week 5</th>
+  <tr style="background-color:#2563eb; color:white;">
+    <th style="border:1px solid #ccc; padding:10px; text-align:left;">Group Name</th>
+    <th style="border:1px solid #ccc; padding:10px; text-align:left;">Assigned Paper</th>
+    <th style="border:1px solid #ccc; padding:10px;">Week 1</th>
+    <th style="border:1px solid #ccc; padding:10px;">Week 2</th>
+    <th style="border:1px solid #ccc; padding:10px;">Week 3</th>
+    <th style="border:1px solid #ccc; padding:10px;">Week 4</th>
+    <th style="border:1px solid #ccc; padding:10px;">Week 5</th>
   </tr>
 
-  <!-- Row 1 -->
   <tr>
-    <td style="border:1px solid #ccc; padding:10px; text-align: left; font-weight: bold;">Two Half-Lives</td>
-    <td style="border:1px solid #ccc; padding:10px; text-align: left;">BBN</td>
-    <!-- Highlighted Rank 3: Vibrant Bronze -->
-    <td style="border:1px solid #ccc; padding:10px; background-color: #ffe8cc; color: #d97706; font-weight: bold;">3/5</td>
-    <td style="border:1px solid #ccc; padding:10px;"></td>
-    <td style="border:1px solid #ccc; padding:10px;"></td>
-    <td style="border:1px solid #ccc; padding:10px;"></td>
-    <td style="border:1px solid #ccc; padding:10px;"></td>
-  </tr>
-
-  <!-- Row 2 -->
-  <tr>
-    <td style="border:1px solid #ccc; padding:10px; text-align: left; font-weight: bold;">Too Hot to collapse</td>
-    <td style="border:1px solid #ccc; padding:10px; text-align: left;">SN</td>
+    <td style="border:1px solid #ccc; padding:10px; text-align:left; font-weight:bold;">Two Half-Lives</td>
+    <td style="border:1px solid #ccc; padding:10px; text-align:left;">BBN</td>
+    <td style="border:1px solid #ccc; padding:10px;">3/5</td>
     <td style="border:1px solid #ccc; padding:10px;">4/5</td>
     <td style="border:1px solid #ccc; padding:10px;"></td>
     <td style="border:1px solid #ccc; padding:10px;"></td>
     <td style="border:1px solid #ccc; padding:10px;"></td>
+  </tr>
+
+  <tr>
+    <td style="border:1px solid #ccc; padding:10px; text-align:left; font-weight:bold;">Too Hot to Collapse</td>
+    <td style="border:1px solid #ccc; padding:10px; text-align:left;">SN</td>
+    <td style="border:1px solid #ccc; padding:10px;">4/5</td>
+    <td style="border:1px solid #ccc; padding:10px;">4/5</td>
+    <td style="border:1px solid #ccc; padding:10px;"></td>
+    <td style="border:1px solid #ccc; padding:10px;"></td>
     <td style="border:1px solid #ccc; padding:10px;"></td>
   </tr>
 
-  <!-- Row 3 -->
   <tr>
-    <td style="border:1px solid #ccc; padding:10px; text-align: left; font-weight: bold;">Solar Flux Duo</td>
-    <td style="border:1px solid #ccc; padding:10px; text-align: left;">SNO</td>
+    <td style="border:1px solid #ccc; padding:10px; text-align:left; font-weight:bold;">Solar Flux Duo</td>
+    <td style="border:1px solid #ccc; padding:10px; text-align:left;">SNO</td>
     <td style="border:1px solid #ccc; padding:10px;">5/5</td>
-    <td style="border:1px solid #ccc; padding:10px;"></td>
+    <td style="border:1px solid #ccc; padding:10px;">1/5</td>
     <td style="border:1px solid #ccc; padding:10px;"></td>
     <td style="border:1px solid #ccc; padding:10px;"></td>
     <td style="border:1px solid #ccc; padding:10px;"></td>
   </tr>
 
-  <!-- Row 4 -->
   <tr>
-    <td style="border:1px solid #ccc; padding:10px; text-align: left; font-weight: bold;">Fussion Confusion</td>
-    <td style="border:1px solid #ccc; padding:10px; text-align: left;">B2FH</td>
-    <!-- Highlighted Rank 1: Vibrant Gold -->
-    <td style="border:1px solid #ccc; padding:10px; background-color: #fef08a; color: #a16207; font-weight: bold;">1/5</td>
-    <td style="border:1px solid #ccc; padding:10px;"></td>
+    <td style="border:1px solid #ccc; padding:10px; text-align:left; font-weight:bold;">Fusion Confusion</td>
+    <td style="border:1px solid #ccc; padding:10px; text-align:left;">B2FH</td>
+    <td style="border:1px solid #ccc; padding:10px;">1/5</td>
+    <td style="border:1px solid #ccc; padding:10px;">2/5</td>
     <td style="border:1px solid #ccc; padding:10px;"></td>
     <td style="border:1px solid #ccc; padding:10px;"></td>
     <td style="border:1px solid #ccc; padding:10px;"></td>
   </tr>
-  <!-- Row 5 -->
+
   <tr>
-    <td style="border:1px solid #ccc; padding:10px; text-align: left; font-weight: bold;">Alpha Errors</td>
-    <td style="border:1px solid #ccc; padding:10px; text-align: left;">B2FH</td>
-    <!-- Highlighted Rank 2: Vibrant Silver -->
-    <td style="border:1px solid #ccc; padding:10px; background-color: #e2e8f0; color: #475569; font-weight: bold;">2/5</td>
-    <td style="border:1px solid #ccc; padding:10px;"></td>
+    <td style="border:1px solid #ccc; padding:10px; text-align:left; font-weight:bold;">Alpha Errors</td>
+    <td style="border:1px solid #ccc; padding:10px; text-align:left;">B2FH</td>
+    <td style="border:1px solid #ccc; padding:10px;">2/5</td>
+    <td style="border:1px solid #ccc; padding:10px;">3/5</td>
     <td style="border:1px solid #ccc; padding:10px;"></td>
     <td style="border:1px solid #ccc; padding:10px;"></td>
     <td style="border:1px solid #ccc; padding:10px;"></td>
   </tr>
 </table>
 
-### Weekly Marks
-* [Marks for Week 1](https://docs.google.com/document/d/1jAIfJ_6BnmciszZ1_fmSouxTR-mMROzKty-UDH41zuU/edit?usp=sharing)
+
+### Weekly Marks <span style="background:#ff4d4f;color:white;padding:2px 8px;border-radius:12px;font-size:12px;">NEW Week 2 marks</span>
+* [Weekly Marks](https://docs.google.com/document/d/1jAIfJ_6BnmciszZ1_fmSouxTR-mMROzKty-UDH41zuU/edit?usp=sharing)
 
 
 ### Sample Presentation Style
-#### React JS based web presentations <span style="background:#ff4d4f;color:white;padding:2px 8px;border-radius:12px;font-size:12px;">NEW</span>
+#### React JS based web presentations 
 
 [React Js PPT style](assets/class4/index.html)
 
-#### LaTeX & Beamer presentations <span style="background:#ff4d4f;color:white;padding:2px 8px;border-radius:12px;font-size:12px;">NEW</span>
+#### LaTeX & Beamer presentations
 
 [LaTeX & Beamer](assets/class4/latex.md) 
 
@@ -131,9 +124,8 @@ Please select one paper from the list for your bibliographic project. These pape
 * [Week 1: Physics of Stars I - Logistics and Stellar Models](chapter1.md)
 * [Week 2: Physics of Stars II - Stellar Models](chapter2.md)
 * [Week 3: Physics of Stars III - Star Formations](chapter3.md)
-* [Week 4: The Big Picture](assets/extra/nuclear-astrophysics.pdf) <span style="background:#ff4d4f;color:white;padding:2px 8px;border-radius:12px;font-size:12px;">NEW</span>
-* [Week 5: Thermonuclear Reactions in Stars](chapter4.md) <span style="background:#ff4d4f;color:white;padding:2px 8px;border-radius:12px;font-size:12px;">NEW</span>
-
+* [Week 4: The Big Picture](assets/extra/nuclear-astrophysics.pdf) 
+* [Week 5: Thermonuclear Reactions in Stars](chapter4.md) 
 
 ## Next weeks 
 
