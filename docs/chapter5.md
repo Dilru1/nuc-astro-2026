@@ -22,6 +22,3 @@ By the end of this chapter you should understand how reaction rates are calculat
 
 #### Short notes <span style="background:#ff4d4f;color:white;padding:2px 8px;border-radius:12px;font-size:12px;">NEW</span>
 [ Short notes](assets/class6/thermo_nuclear_reactions.pdf)
-
-#### Short notes <span style="background:#ff4d4f;color:white;padding:2px 8px;border-radius:12px;font-size:12px;">NEW</span>
-[ Short notes](assets/class6/thermo_nuclear_reactions.pdf)
