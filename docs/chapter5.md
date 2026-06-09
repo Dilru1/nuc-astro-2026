@@ -9,7 +9,7 @@ By the end of this chapter you should understand how reaction rates are calculat
 ### Notes <span style="background:#ff4d4f;color:white;padding:2px 8px;border-radius:12px;font-size:12px;">NEW</span>
 
 #### Charged Particle reactions (Part I) <span style="background:#ff4d4f;color:white;padding:2px 8px;border-radius:12px;font-size:12px;">NEW</span>
-[Charged Particle Induced Reactions](assets/class6/thermo_nuclear_reactions.pdf)
+[Charged Particle Induced Reactions](assets/class6/thermo_nuclear_reactions-5-8.pdf)
 
 #### Neutron Induced Reactions (Part II) <span style="background:#ff4d4f;color:white;padding:2px 8px;border-radius:12px;font-size:12px;">NEW</span>
 [Neutron Induced Reactions](assets/class6/thermo_nuclear_reactions.pdf)
