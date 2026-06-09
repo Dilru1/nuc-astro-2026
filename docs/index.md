@@ -106,7 +106,7 @@ Please select one paper from the list for your bibliographic project. These pape
 </table>
 
 
-### Weekly Marks <span style="background:#ff4d4f;color:white;padding:2px 8px;border-radius:12px;font-size:12px;">NEW Week 2 marks</span>
+### Weekly Marks
 * [Weekly Marks](https://docs.google.com/document/d/1jAIfJ_6BnmciszZ1_fmSouxTR-mMROzKty-UDH41zuU/edit?usp=sharing)
 
 
@@ -126,6 +126,7 @@ Please select one paper from the list for your bibliographic project. These pape
 * [Week 3: Physics of Stars III - Star Formations](chapter3.md)
 * [Week 4: The Big Picture](assets/extra/nuclear-astrophysics.pdf) 
 * [Week 5: Thermonuclear Reactions in Stars](chapter4.md) 
+* [Week 6: Thermonuclear Reactions II](chapter5.md)   <span style="background:#ff4d4f;color:white;padding:2px 8px;border-radius:12px;font-size:12px;">NEW</span>
 
 ## Next weeks 
 
