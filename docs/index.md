@@ -126,7 +126,9 @@ Please select one paper from the list for your bibliographic project. These pape
 * [Week 3: Physics of Stars III - Star Formations](chapter3.md)
 * [Week 4: The Big Picture](assets/extra/nuclear-astrophysics.pdf) 
 * [Week 5: Thermonuclear Reactions in Stars](chapter4.md) 
-* [Week 6: Thermonuclear Reactions II](chapter5.md)   <span style="background:#ff4d4f;color:white;padding:2px 8px;border-radius:12px;font-size:12px;">NEW</span>
+* [Week 6: Thermonuclear Reactions II](chapter5.md)   
+* [Week 7: Thermonuclear Reactions III](chapter6.md)  <span style="background:#ff4d4f;color:white;padding:2px 8px;border-radius:12px;font-size:12px;">NEW</span>
+
 
 ## Next weeks 
 
