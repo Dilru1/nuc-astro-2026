@@ -41,74 +41,6 @@ Please select one paper from the list for your bibliographic project. These pape
 9. [Neutron Stars and Deep Learning](assets/papers/C_Neutron_Stars_[Deep_Learning].pdf): Fore, B., et al. (2025). Investigating the crust of neutron stars with neural-network quantum states
 10. [Neutron Star Mergers and Machine Learning](assets/papers/D_Neutron_Stars_[ML].pdf): Dax, M., et al. (2025). Real-time inference for binary neutron star mergers using machine learning
 
-### Group Performance & Weekly Leaderboard
-
-<table style="width:100%; border-collapse: collapse; font-family: Arial, sans-serif; text-align: center;">
-  <tr style="background-color:#2563eb; color:white;">
-    <th style="border:1px solid #ccc; padding:10px; text-align:left;">Group Name</th>
-    <th style="border:1px solid #ccc; padding:10px; text-align:left;">Assigned Paper</th>
-    <th style="border:1px solid #ccc; padding:10px;">Week 1</th>
-    <th style="border:1px solid #ccc; padding:10px;">Week 2</th>
-    <th style="border:1px solid #ccc; padding:10px;">Week 3</th>
-    <th style="border:1px solid #ccc; padding:10px;">Week 4</th>
-    <th style="border:1px solid #ccc; padding:10px;">Week 5</th>
-  </tr>
-
-  <tr>
-    <td style="border:1px solid #ccc; padding:10px; text-align:left; font-weight:bold;">Two Half-Lives</td>
-    <td style="border:1px solid #ccc; padding:10px; text-align:left;">BBN</td>
-    <td style="border:1px solid #ccc; padding:10px;">3/5</td>
-    <td style="border:1px solid #ccc; padding:10px;">4/5</td>
-    <td style="border:1px solid #ccc; padding:10px;"></td>
-    <td style="border:1px solid #ccc; padding:10px;"></td>
-    <td style="border:1px solid #ccc; padding:10px;"></td>
-  </tr>
-
-  <tr>
-    <td style="border:1px solid #ccc; padding:10px; text-align:left; font-weight:bold;">Too Hot to Collapse</td>
-    <td style="border:1px solid #ccc; padding:10px; text-align:left;">SN</td>
-    <td style="border:1px solid #ccc; padding:10px;">4/5</td>
-    <td style="border:1px solid #ccc; padding:10px;">4/5</td>
-    <td style="border:1px solid #ccc; padding:10px;"></td>
-    <td style="border:1px solid #ccc; padding:10px;"></td>
-    <td style="border:1px solid #ccc; padding:10px;"></td>
-  </tr>
-
-  <tr>
-    <td style="border:1px solid #ccc; padding:10px; text-align:left; font-weight:bold;">Solar Flux Duo</td>
-    <td style="border:1px solid #ccc; padding:10px; text-align:left;">SNO</td>
-    <td style="border:1px solid #ccc; padding:10px;">5/5</td>
-    <td style="border:1px solid #ccc; padding:10px;">1/5</td>
-    <td style="border:1px solid #ccc; padding:10px;"></td>
-    <td style="border:1px solid #ccc; padding:10px;"></td>
-    <td style="border:1px solid #ccc; padding:10px;"></td>
-  </tr>
-
-  <tr>
-    <td style="border:1px solid #ccc; padding:10px; text-align:left; font-weight:bold;">Fusion Confusion</td>
-    <td style="border:1px solid #ccc; padding:10px; text-align:left;">B2FH</td>
-    <td style="border:1px solid #ccc; padding:10px;">1/5</td>
-    <td style="border:1px solid #ccc; padding:10px;">2/5</td>
-    <td style="border:1px solid #ccc; padding:10px;"></td>
-    <td style="border:1px solid #ccc; padding:10px;"></td>
-    <td style="border:1px solid #ccc; padding:10px;"></td>
-  </tr>
-
-  <tr>
-    <td style="border:1px solid #ccc; padding:10px; text-align:left; font-weight:bold;">Alpha Errors</td>
-    <td style="border:1px solid #ccc; padding:10px; text-align:left;">B2FH</td>
-    <td style="border:1px solid #ccc; padding:10px;">2/5</td>
-    <td style="border:1px solid #ccc; padding:10px;">3/5</td>
-    <td style="border:1px solid #ccc; padding:10px;"></td>
-    <td style="border:1px solid #ccc; padding:10px;"></td>
-    <td style="border:1px solid #ccc; padding:10px;"></td>
-  </tr>
-</table>
-
-
-### Weekly Marks
-* [Weekly Marks](https://docs.google.com/document/d/1jAIfJ_6BnmciszZ1_fmSouxTR-mMROzKty-UDH41zuU/edit?usp=sharing)
-
 
 ### Sample Presentation Style
 #### React JS based web presentations 
@@ -128,26 +60,24 @@ Please select one paper from the list for your bibliographic project. These pape
 * [Week 5: Thermonuclear Reactions in Stars](chapter4.md) 
 * [Week 6: Thermonuclear Reactions II](chapter5.md)   
 * [Week 7: Thermonuclear Reactions III](chapter6.md)  <span style="background:#ff4d4f;color:white;padding:2px 8px;border-radius:12px;font-size:12px;">NEW</span>
+* [Week 8: Hydrostatic Burning I — H → He](chapter7.md)  <span style="background:#ff4d4f;color:white;padding:2px 8px;border-radius:12px;font-size:12px;">NEW</span>
+* [Week 9: Formation and Survival of Carbon-12](chapter8.md)  <span style="background:#ff4d4f;color:white;padding:2px 8px;border-radius:12px;font-size:12px;">NEW</span>
+
+* [Week 10: Fate towards Fe core](chapter9.md)  <span style="background:#ff4d4f;color:white;padding:2px 8px;border-radius:12px;font-size:12px;">NEW</span>
 
 
 ## Next weeks 
-
-* [Chapter 4: Hydrostatic Burning I — H → He](404_work_in_progress.md)
-* [Chapter 5: Hydrostatic Burning II — Advanced Stages](404_work_in_progress.md)
-* [Chapter 6: Supernova Explosion Mechanisms](404_work_in_progress.md)
-* [Chapter 7: Exotic Astrophysical Events](404_work_in_progress.md)
-* [Chapter 8: Nucleosynthesis Beyond the Fe Peak](404_work_in_progress.md)
-* [Chapter 9: The Early Universe & Big Bang Nucleosynthesis](404_work_in_progress.md)
+* [Week 11: Supernova Explosion Mechanisms](404_work_in_progress.md)
+* [Week 12: Exotic Astrophysical Events](404_work_in_progress.md)
+* [Week 13: Nucleosynthesis Beyond the Fe Peak](404_work_in_progress.md)
+* [Week 14: The Early Universe & Big Bang Nucleosynthesis](404_work_in_progress.md)
 
 
 ## Assignments 
 * [Assignment 1: Physics of Stars](assets/pdfs/assignment.pdf)
 
-## Final Exam Styles  
-* [The Petrova Problem](assets/exams/exam.md)
-
 
 
 
 ---
-*Last updated: April 2026*
+*Last updated: July 2026*
