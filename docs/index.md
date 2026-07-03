@@ -72,7 +72,6 @@ Please select one paper from the list for your bibliographic project. These pape
 * [Week 13: Nucleosynthesis Beyond the Fe Peak](404_work_in_progress.md)
 * [Week 14: The Early Universe & Big Bang Nucleosynthesis](404_work_in_progress.md)
 
-
 ## Assignments 
 * [Assignment 1: Physics of Stars](assets/pdfs/assignment.pdf)
 
