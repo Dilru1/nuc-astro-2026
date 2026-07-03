@@ -182,10 +182,11 @@ Thus WKB naturally connects quantum mechanics with classical mechanics.
 
 ---
 
-### Slides <span style="background:#ff4d4f;color:white;padding:2px 8px;border-radius:12px;font-size:12px;">NEW</span>
-
+### Slides
 #### Charged Particle reactions <span style="background:#ff4d4f;color:white;padding:2px 8px;border-radius:12px;font-size:12px;">NEW</span>
 
-[Charged Particle Induced Reactions](assets/class7/presentation-1-36.pdf)
+[Charged Particle Induced Reactions](assets/class7/presentation-1-36.pdf)  <span style="background:#ff4d4f;color:white;padding:2px 8px;border-radius:12px;font-size:12px;">NEW</span>
 
-[Sommerfeld Parameter, the Gamow Peak, and Applications to Stellar Burning](assets/class7/nuc4_extra.pdf)
+
+[Sommerfeld Parameter, the Gamow Peak, and Applications to Stellar Burning](assets/class7/nuc4_extra.pdf)  <span style="background:#ff4d4f;color:white;padding:2px 8px;border-radius:12px;font-size:12px;">NEW</span>
+
