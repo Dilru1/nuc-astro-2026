@@ -77,6 +77,5 @@ Please select one paper from the list for your bibliographic project. These pape
 
 
 
-
 ---
 *Last updated: July 2026*
