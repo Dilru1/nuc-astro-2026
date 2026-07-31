@@ -62,7 +62,6 @@ Please select one paper from the list for your bibliographic project. These pape
 * [Week 7: Thermonuclear Reactions III](chapter6.md)  
 * [Week 8: Hydrostatic Burning I — H → He](chapter7.md)  
 * [Week 9: Formation and Survival of Carbon-12](chapter8.md) 
-
 * [Week 10: BBN](chapter10.md)   <span style="background:#ff4d4f;color:white;padding:2px 8px;border-radius:12px;font-size:12px;">NEW</span>
 
 
